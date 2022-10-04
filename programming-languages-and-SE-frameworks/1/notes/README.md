@@ -41,6 +41,10 @@ development whereby new discoveries are made. It can be costly to back
 to the start and redesign. The lack of flexibility with this model
 allows for a higher risk of being late or expensive.
 
+Since each stage is completed sequentially, there is a high amount of
+risk involved because risks are evaluated after the completion of
+stages.
+
 ### Iterative models
 An iterative model of waterfall allows for iteration to build upon
 development. An iteration is defined as Requirements -> deployment
@@ -80,3 +84,26 @@ has started. This is done by providing a prototype build at every phase.
 * Risk handling - Most suitable for projects with an undefined scope
   that has many unknown risks due to risk analysis and handling at every
   phase.
+* Good for large projects - Risk handling allows to minimise potential
+  cost if handled appropriately making the Spiral model suitable for
+  large projects.
+* Flexibility in Requirements - Changes to requirements are allowed in
+  later phases by this model
+* Customer satisfaction - Customer is kept informed of the product at
+  early phases and are used to using the system even before completion.
+  The model allows for customer input on a regular basis as requirements
+  change to meet customer satisfaction.
+
+### Disadvantages
+* Complex - The model requires more investment from the customer and
+  management to identify risks.
+* Expensive - Not suitable for smaller scale projects due to prototyping
+  at each phase.
+* Too dependant on risk analysis - Without a high level of expertise in
+  subject domain, the model will not allow for appropriate risk
+  management at each phase.
+* Difficult time management - The number of phases may not be known at
+  the start of a project so setting out time scales for deliverables
+  will be difficult.
+
+
