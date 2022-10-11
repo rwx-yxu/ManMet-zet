@@ -13,7 +13,7 @@ service company.
 ## What types of companies that would the waterfall model work for?
 Typically, services companies that require strict compliance. An example
 of this would be government contracts that require critical systems to
-meet specification defined.
+accurately meet specification defined.
 
 ## Why would this model be chosen over spiral?
 This model may be more suited for when the specification are clearly
