@@ -61,4 +61,7 @@
 * Less management overhead.
 * More empowerment to the team.
 * Management of scrum but added with the visualization of kanban.
-* 
+* No sprint planning. Reducing management overhead.
+* The scrum ban board allows managers to visualize potential project
+  bottle necks.
+
