@@ -1,3 +1,4 @@
+* 2022-12-05 15:42:25Z [Continuous integration](../8)
 * 2022-12-05 13:17:06Z [Pair programming](../7)
 * 2022-12-05 10:29:14Z [Test driven development](../6)
 * 2022-12-05 09:33:35Z [Design patterns](../5)
