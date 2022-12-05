@@ -1,6 +1,0 @@
-* 2022-12-05 09:03:22Z [Architecture - Part 1](../5)
-* 2022-12-05 09:01:45Z [Agile Methodologies - notes](../4)
-* 2022-12-05 08:58:17Z [Software life cycle- Q: waterfall](../3)
-* 2022-12-05 08:56:53Z [Software life cycle - Q:Spiral](../2)
-* 2022-12-05 08:55:30Z [Software life cycle - notes](../1)
-* 2022-12-05 08:46:53Z [Sorry, planned but not yet available](../0)
